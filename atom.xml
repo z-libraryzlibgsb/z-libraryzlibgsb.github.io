@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Z-Library入口网站及中文镜像网址</title>
+  
+  <subtitle>关于zlibrary镜像、chrome插件、程序开发的日志</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-03-11</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Z-Library入口网站及中文镜像网址</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Z-Library入口网站及中文镜像网址</title>
+    <link href="http://example.com/p/z-library.html"/>
+    <id>http://example.com/p/z-library.html</id>
+    <published>2025-03-11</published>
+    <updated>2025-03-11</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Z-Library是一个全球知名的在线数字图书馆和文件共享平台，致力于为用户提供丰富的电子书、学术论文及其他数字资源的免费下载服务。它拥有超过1300万本书籍和8400万篇文章，涵盖文学、科技、人文艺术、学术研究等多个领域。Z-Library的目标是促进知识的自由传播，为学生、研究人员和广大阅读爱好者提供便捷的阅读和学习资源。&lt;/p&gt;</summary>
+ 
+    
+    
+    <category term="ZLibrary入口镜像网址及官网网站持续更新" scheme="http://example.com/categories/z-library%E6%95%B0%E5%AD%97%E5%9B%BE%E4%B9%A6%E9%A6%86/"/>
+    
+    
+    <category term="z-library" scheme="http://example.com/tags/z-library/"/>
+    
+  </entry>
+  
+</feed>
